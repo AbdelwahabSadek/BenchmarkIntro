@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BenchmarkIntro/.vs/BenchmarkIntro/v16
+/BenchmarkIntro/bin/Debug/netcoreapp3.1
+/BenchmarkIntro/obj
